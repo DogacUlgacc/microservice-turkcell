@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/turkcell/config-server.git
+          uri: https://github.com/DogacUlgacc/microservice-turkcell
           search-paths: config-server
           default-label: main
           search-paths: 
